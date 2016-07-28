@@ -1,3 +1,5 @@
+EncryptionLibrary files provided by Professor Christopher Nitta of UC Davis
+
 Usage:
 Commands can be found on start up of the program. To message someone, you must first 
 /connect, then /mess them. After that, anything you type will be sent to the user
